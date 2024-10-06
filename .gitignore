@@ -1,0 +1,5 @@
+shop-ui/node_modules
+shop-ui/package-lock
+shop/.vs
+shop/bin
+shop/obj
